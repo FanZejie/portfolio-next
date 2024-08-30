@@ -6,7 +6,7 @@ export const projectsData = [
     id: 2,
     image: '/blog.png',
     title: "Zjay Blog",
-    category: "NextJS",
+    category: "NextJS & React",
     link:'https://zejie.info/',
     githubLink:'https://github.com/FanZejie/zejie-next-blog'
   },
@@ -14,7 +14,7 @@ export const projectsData = [
     id: 3,
     image: '/visa-dashboard.png',
     title: "Visa Dashboard",
-    category: "NextJS",
+    category: "NextJS & React",
     link:'https://visadashboard.top/',
     githubLink:'https://github.com/FanZejie/visa-dashboard'
   },
@@ -22,7 +22,7 @@ export const projectsData = [
     id: 1,
     image: '/portfolio.png',
     title: "Zjay PortFolio",
-    category: "NextJS",
+    category: "NextJS & React",
     link:'https://portfolio.zejie.info/',
     githubLink:'https://github.com/FanZejie/ZJay-personal-portfolio'
   },
@@ -51,7 +51,7 @@ export const projectsData = [
 // projects
 export const projectsNav = [
   {
-    name: "NextJS",
+    name: "NextJS & React",
   },
   {
     name: "Vue",

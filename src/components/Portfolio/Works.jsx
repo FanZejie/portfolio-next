@@ -9,7 +9,7 @@ import { projectsNav } from "./Data";
 import WorkItems from "./WorkItems";
 
 const Projects = () => {
-  const [item, setItem] = useState({ name: "NextJS" });
+  const [item, setItem] = useState({ name: "NextJS & React" });
   const [projects, setProjects] = useState([]);
   const [active, setActive] = useState(0);
 
